@@ -10,8 +10,10 @@ Growth of PAO1 over 15-24h at 37C. Shown is mean OD600 of 3 biological replicate
 Treatment conditions are SAHA 25 µg/mL (saha), 1.25% ethanol (etoh), both SAHA 25 µg/mL and DBO 25 µg/mL (combo), and both SAHA 25 µg/mL and DBO 50 µg/mL (xDBO; extra-dbo).
 
 ![growth-M8](https://github.com/marklemzin/EM_DBO/raw/master/assets/growth-pilot.png)
+
 Growth in M8 media (supplemented with cas-amino acids).
 ![growth-KB](https://github.com/marklemzin/EM_DBO/raw/master/assets/growth-wt.png)
+
 Growth in KB media.
 ***
 ## Swarming
